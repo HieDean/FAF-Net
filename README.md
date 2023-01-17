@@ -4,7 +4,7 @@
 
 This repo provides a PyTorch implementation of the paper: [Reference-Based Speech Enhancement via Feature Alignment and Fusion Network](https://ojs.aaai.org/index.php/AAAI/article/view/21419).
 
-![](.\figure\framework.png)
+![](https://github.com/HieDean/FAF-Net/blob/main/figure/framework.png)
 
 ### Requirements
 pytorch>=1.10.0
