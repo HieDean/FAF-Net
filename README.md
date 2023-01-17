@@ -39,3 +39,6 @@ If you find the code useful in your research, please cite:
   year={2022}
 }
 ```
+
+### LICENSE
+MIT-LICENSE
