@@ -8,9 +8,13 @@ This repo provides a PyTorch implementation of the paper: [Reference-Based Speec
 
 ### Requirements
 pytorch>=1.10.0
+
 torchaudio>=0.10.0
+
 numpy>=1.21.0
+
 tqdm>=4.64.0
+
 pesq>=0.0.3
 
 ### Usage
