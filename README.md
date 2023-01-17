@@ -41,4 +41,4 @@ If you find the code useful in your research, please cite:
 ```
 
 ### LICENSE
-MIT-LICENSE
+[MIT-LICENSE](https://github.com/HieDean/FAF-Net/blob/main/LICENSE)
